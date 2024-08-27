@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <br>
-  <img src="https://komarev.com/ghpvc/?username=sharma-dikshant&style=flat-square&color=blue" alt="Profile Views"/>
+  
 </div>
 
 <h1 align="center">Hey there 👋</h1>
